@@ -1,0 +1,1 @@
+"""Rutafy backend application package."""
